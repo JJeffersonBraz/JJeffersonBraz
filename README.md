@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Olá, sou Jefferson Braz</h1>
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JJeffersonBraz&show_icons=true&theme=radical">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJeffersonBraz&layout=compact&theme=radical">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JJeffersonBraz&show_icons=true&theme=radical">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJeffersonBraz&layout=compact&theme=radical">
   </div>
 </div>  
   
