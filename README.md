@@ -7,7 +7,7 @@
 </div>  
   
 <h2>Sobre</h2>
-  <p> Sou um entusiasta de tecnologia, atualmente, sou estudante do curso de Tecnologia da Informação e venho trilhando minha carreira entre as tecnologias usuais da universidade e me aperfeicoando no desenvolvimento front-end.</p>
+  <p> Entusiasta de tecnologia, atualmente, sou estudante do curso de Tecnologia da Informação e venho trilhando minha carreira com as tecnologias usuais da universidade e me aperfeiçoando no desenvolvimento Front-End.</p>
 
 <h2>Skills</h2>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
